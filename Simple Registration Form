@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <title>Registration Form</title>
+</head>
+
+<body>
+
+     <h2>Registration Form</h2>
+
+     <form>
+          <b>Name:</b>
+
+          <input type="text"><br><br>
+
+          <b>Email:</b>
+          <input type="email"><br><br>
+
+          <b> Password: </b>
+          <input type="password"><br><br>
+
+          <input type="submit" value="Register">
+     </form>
+
+</body>
+
+</html>

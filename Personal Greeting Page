@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Greeting Page</title> <!-- The title shown on the browser tab -->
+</head>
+<body>
+ 
+    <!-- Main heading of the page -->
+    <h1>Hello, Welcome!</h1>
+
+    <!-- A short descriptive paragraph -->
+    <p>This is a simple greeting page made with basic HTML.</p>
+
+<footer>
+            
+© 2025 StepNext-Solution. All Rights Reserved.
+        
+</footer>
+
+
+</body>
+</html>

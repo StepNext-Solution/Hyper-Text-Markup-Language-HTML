@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<!-- Declares the document type -->
+
+<html>
+<!-- Root element -->
+
+<head>
+     <title>Home</title>
+     <!-- Browser tab title -->
+</head>
+
+<body>
+
+     <h1>Welcome to Our Website</h1>
+     <!-- Main heading -->
+
+     <p>This is the home page of our website.</p>
+     <!-- Intro paragraph -->
+
+     <p>We provide quality services to our customers.</p>
+
+     <footer>
+          ©2025 StepNext-Solution. All Rights Reserved.
+     </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- Declares the document type and version of HTML -->
+
+<html>
+<!-- Root element of the HTML document -->
+
+<head>
+     <!-- Contains meta information about the page -->
+     <title>Contact Us</title>
+     <!-- Title displayed in the browser tab -->
+</head>
+
+<body>
+     <!-- Main content of the web page -->
+
+     <h1>Contact Information</h1>
+     <!-- Main heading of the page -->
+
+     <p>You can reach us using the details below:</p>
+     <!-- Introductory paragraph -->
+
+     <p>Email: contact@example.com</p>
+     <!-- Email contact information -->
+
+     <p>Phone: +880198765432</p>
+     <!-- Phone contact information -->
+
+     <footer>
+          <!-- Footer section of the page -->
+          ©2025 StepNext-Solution. All Rights Reserved.
+     </footer>
+
+</body>
+<!-- End of body content -->
+
+</html>
+<!-- End of HTML document -->

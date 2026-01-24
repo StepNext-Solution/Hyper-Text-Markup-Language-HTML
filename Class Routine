@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Class Routine</title>
+</head>
+
+<body>
+
+  <h1>Weekly Class Routine</h1>
+
+  <table border="1">
+    <tr>
+      <th>Day</th>
+      <th>Subject</th>
+      <th>Time</th>
+    </tr>
+
+    <tr>
+      <td>Sunday</td>
+      <td>Math</td>
+      <td>10:00 PM</td>
+    </tr>
+
+    <tr>
+      <td>Monday</td>
+      <td>English</td>
+      <td>11:00 PM</td>
+    </tr>
+  </table>
+
+  <br>
+
+  <br>
+
+  <footer>
+    ©2025 StepNext-Solution. All Rights Reserved.
+  </footer>
+
+</body>
+
+</html>
