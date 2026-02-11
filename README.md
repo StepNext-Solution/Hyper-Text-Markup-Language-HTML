@@ -25,80 +25,45 @@ HTML is the foundation of every website. Learning HTML allows you to:
 
 ## 🧱 Basic HTML Structure
 
-Here is the **core structure** of any HTML page:
+Every HTML page has this **core structure**:
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Fun HTML Page</title>
+    <title>Fun HTML Page</title>
 </head>
 <body>
-    <h1>Welcome to My Fun Page!</h1>
-    <p>This is a paragraph explaining how HTML works in a fun way.</p>
-    
-    <!-- Link Example -->
-    <a href="https://example.com">Click here to visit Example.com</a>
-    
-    <!-- Image Example -->
-    <img src="fun-image.jpg" alt="A fun image" width="300">
-    
-    <!-- List Example -->
-    <h2>My Favorite Things:</h2>
-    <ul>
-        <li>Coding</li>
-        <li>Music</li>
-        <li>Gaming</li>
-    </ul>
-    
-    <!-- Table Example -->
-    <h2>Fun Table</h2>
-    <table border="1">
-        <tr>
-            <th>Day</th>
-            <th>Activity</th>
-        </tr>
-        <tr>
-            <td>Monday</td>
-            <td>Learn HTML</td>
-        </tr>
-        <tr>
-            <td>Friday</td>
-            <td>Play Games</td>
-        </tr>
-    </table>
+    <h1>Hi there!</h1>
+    <p>This is my first HTML page 🎉</p>
+    <a href="https://example.com">Visit Example</a>
+    <img src="fun-image.jpg" alt="Fun image" width="200">
 </body>
 </html>
-💡 Explanation of Syntax:
-<!DOCTYPE html> → Declares the document as HTML5.
 
-<html> → The root element that contains the whole page.
+```
 
-<head> → Section containing meta data, title, and links to CSS/JS.
+## Explanation of Syntax
 
-<meta charset="UTF-8"> → Ensures proper character encoding.
+<!DOCTYPE html> → Declares this is an HTML5 page
 
-<title> → Sets the title of the page shown in the browser tab.
+<html> → Root element of the page
 
-<body> → Contains all visible content.
+<head> → Meta information about the page
 
-<h1> → Main heading of the page.
+<meta charset="UTF-8"> → Ensures text displays correctly
 
-<p> → Paragraph text.
+<title> → Sets the browser tab title
 
-<a> → Hyperlink to another website or page.
+<body> → Visible content of the page
 
-<img> → Image with src (source), alt (alternative text), and optional width/height.
+<h1> → Main heading
 
-<ul> → Unordered list (bullets).
+<p> → Paragraph text
 
-<li> → List item inside a list.
+<a> → Link to another webpage
 
-<table> → Table container.
+<img> → Displays an image
 
-<tr> → Table row.
 
-<th> → Table header cell.
-
-<td> → Table data cell.
