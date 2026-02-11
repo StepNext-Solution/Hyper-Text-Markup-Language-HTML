@@ -46,24 +46,24 @@ Every HTML page has this **core structure**:
 
 ## Explanation of Syntax
 
-<!DOCTYPE html> → Declares this is an HTML5 page
+- <!DOCTYPE html> → Declares this is an HTML5 page
 
-<html> → Root element of the page
+- <html> → Root element of the page
 
-<head> → Meta information about the page
+- <head> → Meta information about the page
 
-<meta charset="UTF-8"> → Ensures text displays correctly
+- <meta charset="UTF-8"> → Ensures text displays correctly
 
-<title> → Sets the browser tab title
+- <title> → Sets the browser tab title
 
-<body> → Visible content of the page
+- <body> → Visible content of the page
 
-<h1> → Main heading
+- <h1> → Main heading
 
-<p> → Paragraph text
+- <p> → Paragraph text
 
-<a> → Link to another webpage
+- <a> → Link to another webpage
 
-<img> → Displays an image
+- <img> → Displays an image
 
 
