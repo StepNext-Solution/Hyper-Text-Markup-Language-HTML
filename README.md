@@ -22,3 +22,41 @@ HTML is the foundation of every website. Learning HTML allows you to:
 
 
 ---
+
+## 🧱 Basic HTML Syntax
+
+Here is a simple HTML template with comments explaining each part:
+
+```html
+<!-- This declares the document type and version of HTML -->
+<!DOCTYPE html>
+
+<!-- The root element of the HTML page -->
+<html lang="en">
+
+<!-- Head section contains meta information, title, and links to CSS or scripts -->
+<head>
+    <!-- The title of the page shown in the browser tab -->
+    <title>My First Web Page</title>
+    <!-- Meta information about the document -->
+    <meta charset="UTF-8">
+</head>
+
+<!-- Body section contains all the visible content on the webpage -->
+<body>
+    <!-- Main heading of the page -->
+    <h1>Welcome to My Website</h1>
+
+    <!-- Paragraph of text -->
+    <p>This is a simple HTML page with basic structure explained using comments.</p>
+
+    <!-- Adding a link -->
+    <a href="https://example.com">Visit Example</a>
+
+    <!-- Adding an image -->
+    <img src="image.jpg" alt="Sample Image">
+
+    <!-- A horizontal line -->
+    <hr>
+</body>
+</html>
