@@ -23,40 +23,82 @@ HTML is the foundation of every website. Learning HTML allows you to:
 
 ---
 
-## 🧱 Basic HTML Syntax
+## 🧱 Basic HTML Structure
 
-Here is a simple HTML template with comments explaining each part:
+Here is the **core structure** of any HTML page:
 
 ```html
-<!-- This declares the document type and version of HTML -->
 <!DOCTYPE html>
-
-<!-- The root element of the HTML page -->
 <html lang="en">
-
-<!-- Head section contains meta information, title, and links to CSS or scripts -->
 <head>
-    <!-- The title of the page shown in the browser tab -->
-    <title>My First Web Page</title>
-    <!-- Meta information about the document -->
     <meta charset="UTF-8">
+    <title>My Fun HTML Page</title>
 </head>
-
-<!-- Body section contains all the visible content on the webpage -->
 <body>
-    <!-- Main heading of the page -->
-    <h1>Welcome to My Website</h1>
-
-    <!-- Paragraph of text -->
-    <p>This is a simple HTML page with basic structure explained using comments.</p>
-
-    <!-- Adding a link -->
-    <a href="https://example.com">Visit Example</a>
-
-    <!-- Adding an image -->
-    <img src="image.jpg" alt="Sample Image">
-
-    <!-- A horizontal line -->
-    <hr>
+    <h1>Welcome to My Fun Page!</h1>
+    <p>This is a paragraph explaining how HTML works in a fun way.</p>
+    
+    <!-- Link Example -->
+    <a href="https://example.com">Click here to visit Example.com</a>
+    
+    <!-- Image Example -->
+    <img src="fun-image.jpg" alt="A fun image" width="300">
+    
+    <!-- List Example -->
+    <h2>My Favorite Things:</h2>
+    <ul>
+        <li>Coding</li>
+        <li>Music</li>
+        <li>Gaming</li>
+    </ul>
+    
+    <!-- Table Example -->
+    <h2>Fun Table</h2>
+    <table border="1">
+        <tr>
+            <th>Day</th>
+            <th>Activity</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Learn HTML</td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Play Games</td>
+        </tr>
+    </table>
 </body>
 </html>
+💡 Explanation of Syntax:
+<!DOCTYPE html> → Declares the document as HTML5.
+
+<html> → The root element that contains the whole page.
+
+<head> → Section containing meta data, title, and links to CSS/JS.
+
+<meta charset="UTF-8"> → Ensures proper character encoding.
+
+<title> → Sets the title of the page shown in the browser tab.
+
+<body> → Contains all visible content.
+
+<h1> → Main heading of the page.
+
+<p> → Paragraph text.
+
+<a> → Hyperlink to another website or page.
+
+<img> → Image with src (source), alt (alternative text), and optional width/height.
+
+<ul> → Unordered list (bullets).
+
+<li> → List item inside a list.
+
+<table> → Table container.
+
+<tr> → Table row.
+
+<th> → Table header cell.
+
+<td> → Table data cell.
